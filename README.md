@@ -1,3 +1,3 @@
 # manualForNewBee
 Some guidance from  personal experience，just record it  in case I forget！
-666666
+888888
